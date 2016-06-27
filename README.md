@@ -16,9 +16,11 @@ The grey torus partially inside the green spheer also has two specular effects. 
 
 The bumpy face on the green sphere is part of a (otherwise invisible) cube. The cube was subdivied multiple times and displaced with a cloud texture.   
 
+[![Demo Video](http://img.youtube.com/vi/bnKaZSOQTWk/0.jpg)](http://www.youtube.com/watch?v=bnKaZSOQTWk "Demo Video")
+
+
 ![Specular Only](specularonly-inspector.png)
 
 1. _Light Direction_ is a Vector and should be mapped to the forward vector of the faked light.
 2. _Light Spread_ describes the size of the specular effect
 3. _Light Color_ the color of the specular effect
-
