@@ -4,9 +4,9 @@ This repository provides two shaders to face a specularity effect from a non-exi
 
 The demo scene contains three objects with the effect. 
 
-* A transparent torus
-* A transparent and rough cube
-* A solid torus
+* A transparent torus [Assets/SpecularOnly.shader](Assets/SpecularOnly.shader)
+* A transparent and rough cube [Assets/SpecularOnly.shader](Assets/SpecularOnly.shader)
+* A solid torus [Assets/Specular.shader](Assets/Specular.shader)
 
 ![Demo](demo.png)
 
